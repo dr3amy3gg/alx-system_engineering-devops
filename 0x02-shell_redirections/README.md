@@ -10,4 +10,4 @@
 9 write a script that duplicates the last line of the file iacta  
 10 write a script that deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders  
 11 write a script that counts the number of directories and sub-directories in the current directory - current and parent should not be taken into account, count hidden directories  
-create a script that displays the 10 newest files in the current directory - one file per line, sorted from newest to oldest  
+12 create a script that displays the 10 newest files in the current directory - one file per line, sorted from newest to oldest  
