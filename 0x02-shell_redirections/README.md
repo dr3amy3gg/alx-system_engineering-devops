@@ -23,3 +23,4 @@
 22 write a script that displays all users and their home directories, sorted by users based on the /etc/passwd file  
 23 write a command that finds all empty files and directories in the current dir and all sub-dirs, only names of files and dirs should be displayed; list hidden files; one filename per line; end with new line  
 24 write a script that lists all the files with a .gif ext in the current dir and all its sub-dirs: incl hidden files; only regular files, not dirs; names of files without their ext;sort by byte value;, case-insensitive; one file per line; end with new line  
+25 an acrostic is when the first letter of each lines spells out a word, message, alphabet; create a script that decodes acrostics that use first letter of each line; decoded message must end on new line  
