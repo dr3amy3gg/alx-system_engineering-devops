@@ -20,3 +20,4 @@
 19 replace all characters A and c from input to Z and e respectively  
 20 create a script that removes all letters c and C from input  
 21 write a script that reverses its input  
+22 write a script that displays all users and their home directories, sorted by users based on the /etc/passwd file  
