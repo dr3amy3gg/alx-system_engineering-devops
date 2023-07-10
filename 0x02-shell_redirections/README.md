@@ -21,3 +21,4 @@
 20 create a script that removes all letters c and C from input  
 21 write a script that reverses its input  
 22 write a script that displays all users and their home directories, sorted by users based on the /etc/passwd file  
+23 write a command that finds all empty files and directories in the current dir and all sub-dirs, only names of files and dirs should be displayed; list hidden files; one filename per line; end with new line  
