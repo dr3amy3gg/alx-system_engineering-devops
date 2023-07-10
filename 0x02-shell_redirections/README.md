@@ -13,3 +13,4 @@
 12 create a script that displays the 10 newest files in the current directory - one file per line, sorted from newest to oldest  
 13 create a script that takes a list of words as input and prints only words that appear exactly once - input/output format is one line per word and words should be sorted  
 14 display lines containing the pattern 'root' from the file /etc/passwd  
+15 display the number of lines that contain the pattern bin in the fie /etc/passwd  
