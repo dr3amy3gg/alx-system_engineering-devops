@@ -11,3 +11,4 @@
 10 write a script that displays the result of BREATH to the power LOVE; env variables; result followed by new line  
 11 write a script that onverts a number from base 2 to base 10; number in base 2 is stored in the env variable BINARY; display the number in base 10 followed by new line  
 12 create a script that prints all possible combinations of two letters, except oo; letters are lowercase from a to z; one combo per line; outputs should be alpha ordered, starting with aa; do not print oo; maximum 64 chars  
+13 write a script that prints a number with two decimal places, followed by a new line; number stored in env var NUM  
