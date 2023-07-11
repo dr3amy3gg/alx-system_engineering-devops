@@ -14,3 +14,4 @@
 13 write a script that prints a number with two decimal places, followed by a new line; number stored in env var NUM  
 14 write a script that converts a number from base 10 to base 16; number in base 10is stored in DECIMAL; display num in base 16  
 15 write a script that encodes and decodes text using rot13 encryption. assume ascii  
+16 write a script that prints every other line from the input starting with the first line  
