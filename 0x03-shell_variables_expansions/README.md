@@ -5,3 +5,5 @@
 4 create a script that lists environment variables  
 5 create a script that lists all local variables and environment variables, and functions  
 6 create a script that creates a new local variable: name - BEST; value - School  
+7 create a script that creates a new global variable: name - BEST; value - School  
+8 write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE. followed by a new line  
