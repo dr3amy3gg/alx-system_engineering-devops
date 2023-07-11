@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf $PATH | mkdir /action)
+echo PATH=$PATH/action
