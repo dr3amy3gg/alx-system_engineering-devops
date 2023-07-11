@@ -4,3 +4,4 @@
 3 create a script that counts the number of directories in the PATH  
 4 create a script that lists environment variables  
 5 create a script that lists all local variables and environment variables, and functions  
+6 create a script that creates a new local variable: name - BEST; value - School  
