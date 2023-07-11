@@ -15,3 +15,4 @@
 14 write a script that converts a number from base 10 to base 16; number in base 10is stored in DECIMAL; display num in base 16  
 15 write a script that encodes and decodes text using rot13 encryption. assume ascii  
 16 write a script that prints every other line from the input starting with the first line  
+17 write a script that adds the two numbers store in env var WATER and STIR and print results; WATER is in base water, STIR is in base STIR; result should be in base bestchol  
